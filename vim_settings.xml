@@ -3,29 +3,87 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/pycalltree/pycalltree/_file.py" timestamp="1503108289296">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repos/pycalltree/bin/test.py" timestamp="1503109404061">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/repos/pycalltree/pycalltree/_file.py" timestamp="1503109316302">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="13" />
+        <mark key="o" line="24" column="8" />
+      </file>
+      <file name="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" timestamp="1503108969190">
+        <mark key="'" line="74" column="4" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="74" column="4" filename="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+      <register name="&quot;" type="4">
+        <text>ast))</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+      <register name="-" type="4">
+        <text>ast))</text>
+      </register>
+      <register name="/" type="4">
+        <text>mode</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">bW9kdWxlX2FzdAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFzdG9yCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoYXNfdHJlZSkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFzdC5Nbwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBJT0Vycm9yKCJDb3VsZCBub3QgZmluZCBmaWxlIHs6c30iLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBvcy5hY2Nlc3MoZmlsZW5hbWUsIG9zLlJfT0spOgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICIiIiIiIgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>mode</last-search>
+      <last-offset />
+      <last-pattern>mode</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>mode</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
