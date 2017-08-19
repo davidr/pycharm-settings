@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1503110563349">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/pycalltree/bin/test.py" timestamp="1503109657385">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="52" />
