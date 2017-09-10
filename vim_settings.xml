@@ -37,6 +37,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/test/foo.py" timestamp="1505086796678">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" timestamp="1503108969190">
         <mark key="'" line="74" column="4" />
       </file>
@@ -46,7 +51,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGRza2ZqCmtra2tra2trawo=</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -58,19 +63,19 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVfc3RhY2suYXBwZW5kKHNlbGYuY3VycmVudF9tb2R1bGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGRza2ZqCmtra2tra2trawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhc3RfZHVtcChub2RlLm5vZGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmRlYnVnKGFzdF9kdW1wKG5vZGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhc3RfZHVtcChub2RlLm5vZGUpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jdXJyZW50X21vZHVsZToKICAgICAgICAgICAgIyBXZSBkb24ndCBoYXZlIGEgY3VycmVudCBtb2R1bGUgbmFtZSB5ZXQsIHNvIHNpbmNlIHdlJ3ZlIHZpc2l0ZWQgb25lLCB3ZSBzaG91bGQKICAgICAgICAgICAgIyBzZXQgb3VyIG1vZHVsZSBuYW1lCiAgICAgICAgICAgIHByaW50KGRpcihub2RlKSkKCiAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBfTE9HR0VSLmRlYnVnKGFzdF9kdW1wKG5vZGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5jdXJyZW50X21vZHVsZToKICAgICAgICAgICAgIyBXZSBkb24ndCBoYXZlIGEgY3VycmVudCBtb2R1bGUgbmFtZSB5ZXQsIHNvIHNpbmNlIHdlJ3ZlIHZpc2l0ZWQgb25lLCB3ZSBzaG91bGQKICAgICAgICAgICAgIyBzZXQgb3VyIG1vZHVsZSBuYW1lCiAgICAgICAgICAgIHByaW50KGRpcihub2RlKSkKCiAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -82,10 +87,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZXQgb3Vycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
     <search>
@@ -103,6 +108,7 @@
         <entry>q</entry>
         <entry>'a,.d</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
