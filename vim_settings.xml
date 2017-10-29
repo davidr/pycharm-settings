@@ -37,10 +37,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/test/foo.py" timestamp="1505086796678">
+      <file name="$USER_HOME$/repos/test/foo.py" timestamp="1505087017189">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" timestamp="1503108969190">
         <mark key="'" line="74" column="4" />
