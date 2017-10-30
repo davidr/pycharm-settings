@@ -60,10 +60,22 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" timestamp="1509405189683">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/tmux-stuff/timer.py" timestamp="1509314400039">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/python-timemarker/timemarker/__init__.py" timestamp="1509404925231">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -71,10 +83,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>mode</text>
@@ -83,25 +95,25 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9zdGFydDogZmxvYXQgPSBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggVGltZXIoKSBhcyB0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9fc2xvdHNfXyA9IFsnX3N0YXJ0JywgJ19lbmQnXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfX3Nsb3RzX18gPSBbJ19zdGFydCcsICdfZW5kJ10K</text>
+        <text encoding="base64">ICAgIHdpdGggVGltZXIoKSBhcyB0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gZGVmYXVsdF90aW1lcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
