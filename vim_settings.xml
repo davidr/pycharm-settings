@@ -60,63 +60,76 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" timestamp="1509405189683">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" timestamp="1509413143055">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="20" column="71" />
+        <mark key="." line="20" column="71" />
+        <mark key="^" line="20" column="71" />
       </file>
       <file name="$USER_HOME$/repos/tmux-stuff/timer.py" timestamp="1509314400039">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/timemarker/__init__.py" timestamp="1509404925231">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/python-timemarker/timemarker/__init__.py" timestamp="1509412996562">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
       </file>
     </filemarks>
     <jumps>
       <jump line="74" column="4" filename="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="29" column="13" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="102" column="0" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="105" column="67" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="25" column="36" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="116" column="0" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="131" column="20" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="135" column="36" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="136" column="34" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="139" column="38" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="101" column="14" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>TimerClass</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>TimerClass</text>
       </register>
       <register name="/" type="4">
-        <text>mode</text>
+        <text>elaps</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGFydDogZmxvYXQgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHBjdGdfY2FwIDwgMS4gYW5kIG5vdCBzb3J0OgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCdwY3RnX2NhcCA8IDEuIHJlcXVpcmVzIHNvcnQ9VHJ1ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGVsYXBzZWQoc2VsZikgLT4gZmxvYXQ6CiAgICAgICAgIiIiVGltZSBlbGFwc2VkIHNpbmNlIGNyZWF0aW9uL2NvbnRleHQtZW50cnkgb2YgVGltZU1hcmtlcgoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBmbG9hdDogdGltZSBlbGFwc2VkCgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLl9jdW11bGF0aXZlX3RpbWUKCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9fc2xvdHNfXyA9IFsnX3N0YXJ0JywgJ19lbmQnXQo=</text>
+        <text encoding="base64">ICAgIEF0dHJpYnV0ZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlCg==</text>
+        <text encoding="base64">ICAgICAgICBlbGFwc2VkIChmbG9hdCk6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggVGltZXIoKSBhcyB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAqIF9fc2xvdHNfXwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBDb252ZXJ0IHRoZSB0YWcgdGltaW5nIGludG8gcGVyY2VudGFnZXMgb2YgdGhlIHRvdGFsIHRpbWUgdGFrZW4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -126,20 +139,26 @@
       </register>
     </registers>
     <search>
-      <last-search>mode</last-search>
+      <last-search>elaps</last-search>
       <last-offset />
-      <last-pattern>mode</last-pattern>
+      <last-pattern>elaps</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>mode</entry>
+        <entry encoding="base64">XDxfdGFnX3RpbWluZ1w+</entry>
+        <entry>print</entry>
+        <entry>pctg</entry>
+        <entry>elaps</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>'a,.d</entry>
         <entry>q!</entry>
+        <entry>W</entry>
+        <entry>1</entry>
+        <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
