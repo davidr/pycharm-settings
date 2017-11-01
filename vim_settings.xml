@@ -45,14 +45,18 @@
       <file name="/a.dummy" timestamp="1509313608048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/docs/use.rst" timestamp="1509421370549">
+      <file name="$USER_HOME$/repos/python-timemarker/README.rst" timestamp="1509504807403">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="46" column="64" />
+        <mark key="^" line="46" column="64" />
+        <mark key="." line="46" column="64" />
+      </file>
+      <file name="$USER_HOME$/repos/python-timemarker/docs/use.rst" timestamp="1509504798398">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="21" column="2" />
         <mark key="^" line="21" column="2" />
         <mark key="." line="25" column="2" />
-      </file>
-      <file name="$USER_HOME$/.PyCharm2017.2/system/python_stubs/486467580/builtins.py" timestamp="1503108969190">
-        <mark key="'" line="74" column="4" />
       </file>
       <file name="$USER_HOME$/repos/python-timemarker/tests/test_timer.py" timestamp="1509422473219">
         <mark key="a" line="36" column="7" />
@@ -75,11 +79,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/setup.py" timestamp="1509421793574">
+      <file name="$USER_HOME$/repos/python-timemarker/setup.py" timestamp="1509503662418">
         <mark key="'" line="9" column="16" />
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/repos/test/foo.py" timestamp="1505087017189">
         <mark key="[" line="0" column="0" />
@@ -100,16 +105,22 @@
         <mark key="^" line="1" column="10" />
         <mark key="." line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/repos/python-timemarker/.travis.yml" timestamp="1509504429116">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/tmux-stuff/timer.py" timestamp="1509314400039">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/timemarker/__init__.py" timestamp="1509414969809">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repos/python-timemarker/timemarker/__init__.py" timestamp="1509504162068">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+        <mark key="^" line="2" column="72" />
       </file>
       <file name="$USER_HOME$/repos/python-timemarker/tests/helpers.py" timestamp="1509418668802">
         <mark key="[" line="19" column="33" />
@@ -141,57 +152,60 @@
       <jump line="28" column="4" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
       <jump line="75" column="29" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
       <jump line="61" column="60" filename="$USER_HOME$/repos/python-timemarker/timemarker/timer.py" />
+      <jump line="12" column="6" filename="$USER_HOME$/repos/python-timemarker/.travis.yml" />
+      <jump line="8" column="48" filename="$USER_HOME$/repos/python-timemarker/README.rst" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/python-timemarker/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timemarker.timer.TimeMarker._reserved_tags:</text>
+        <text>indegratio</text>
       </register>
       <register name="-" type="4">
-        <text>timemarker.timer.TimeMarker._reserved_tags:</text>
+        <text>indegratio</text>
       </register>
       <register name="/" type="4">
-        <text>TimerMar</text>
+        <text>chide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRpbWVtYXJrZXIuVGltZU1hcmtlcigpIGFzIHRpbWVyOgogICAgICAgICAgICB0aW1lci50YWcoInNsZWVwXzEwMG1zIikKICAgICAgICAgICAgc2xlZXAoLjEpCiAgICAgICAgdGltZXIuc3RhdHMoKQo=</text>
+        <text encoding="base64">ICAtICIzLjUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lci5zdGF0cygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xlZXAoLjEpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgdmVyc2lvbl9pbmZvIDwgKDMsIDYpOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LSAnMy41Jwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgb3V0X2RpY3QgPT0gW10K</text>
+        <text encoding="base64">LSAnMy40Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgdGVzdF90d290YWdfcGN0ZyhzZWxmLCBjYXBzeXMpOgogICAgICAgIHdpdGggdGltZW1hcmtlci5UaW1lTWFya2VyKCkgYXMgdGltZXI6CiAgICAgICAgICAgIHRpbWVyLnRhZygic2xlZXBfMTAwbXMiKQogICAgICAgICAgICBzbGVlcCguMSkKICAgICAgICB0aW1lci5zdGF0cygpCgogICAgICAgIG91dCwgZXJyID0gY2Fwc3lzLnJlYWRvdXRlcnIoKQogICAgICAgIGFzc2VydCBlcnIgPT0gJycKICAgICAgICBhc3NlcnQgb3V0ICE9ICcnCiAgICAgICAgb3V0X2RpY3QgPSBzcGxpdF9vbmVsaW5lKG91dCkKCiAgICAgICAgYXNzZXJ0IG91dF9kaWN0ID09IHB5dGVzdC5hcHByb3goewogICAgICAgICAgICAnVElNRSc6IDAuOSwKICAgICAgICAgICAgJ3NsZWVwXzEwMG1zJzogMi4wLAogICAgICAgICAgICAnc3RhcnQnOiAuMH0sCiAgICAgICAgICAgIHJlbD0xZS0yKQo=</text>
+        <text encoding="base64">ZGVwbG95OgogIHBhc3N3b3JkOgogICAgc2VjdXJlOiBMMkhuSHpZTTR1Q0p2M1VyN2ZVQjNzUHE5OHd1dW1JSU9lSXU4NEVLa3JGUFl1NnpuYXdaL0lRWllCaHlSdys2K3J5TEVYVWZicnU2M3JrRmljZTg3UmdSdVNpdms5emZlUEpqU0Z6ZkwyYkl5ZnBNbm84MHpJdFVmenNYbFRhc1NrVTM4alROTlpwYTc4cTdaUWtDeTVEcUdrYjBiT0czY1krYXdEcCtJQ016SnNKcUhZRlc5aDJKd3FhWndxbkVaSzBLK2RWUXFJSFk0ZVc5NUdTZFpQTVRxSkRVVktjbDk3MWUvMldmUHdvTEM1ZDBqRmZQV3VrZm15QVRDdkdiS1FwUzlva244ZnF4M05oREtydDczMHIySjNMUjQzQVJ4Z01CZjE5c1paV1ErVEpIYnM5aHdpQVU0eUZwSGIyVnNYMlRpc2tUdWo2YjNEY3ZFbUFYWW5TODN2Ym5JT0lGVE5zNkczVzhJN2RENndZR1JhNFFWTU1ITjJxMEZscVpSdGNhUHN5SlZZaEF1TktuZUFkYnhidGVYeU0raTlta2JDbkhndXhPc0pIQjNrdG81WSs0M1FTWnlRYjJlK201WGRVc3cvMDRRanVaNHBlbzRVSkJLOFFEaTc0U2lBMy9sM0ZmOVJNRm1QNUNYZlVLV3RaOGFMVXdIVXpXbE1ZbE1XNXc1VjhhQnltSUNnMDVyaVd2ZW5DZ25lc3FVQm43dzB0NGI1SVhTcCt0b2ZIb2h2d0hBbFl4L1hJaHFBYzY1SVdoMEFWQStPeXVhZmlwdjR1MGtXb3Q1ek1aWFFGL1hsRUxpWVlVdVkxNEI2eW11V0lTRnR2c2JhaXFaMVMxaXpiOVVHeVpxdHlTbVFpb3owbzI4eGIxSU1jTWxXM3R2aWExcUlhWDRybz0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsPTFlLTIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3N0YXJ0JzogLjB9LAo=</text>
+        <text encoding="base64">ICAtICIyLjciCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TimerMar</last-search>
+      <last-search>chide</last-search>
       <last-offset />
-      <last-pattern>TimerMar</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>chide</last-pattern>
+      <last-replace>python-timemarker</last-replace>
+      <last-substitute>chide</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -208,15 +222,19 @@
         <entry>napo</entry>
         <entry encoding="base64">XDxfcmVzZXJ2ZWRfdGFnc1w+</entry>
         <entry>TimerMar</entry>
+        <entry>cjw296</entry>
+        <entry>chide</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>q!</entry>
         <entry>W</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>'a,.y</entry>
+        <entry>'a,.d</entry>
+        <entry>%s/cjw296/davidr/g</entry>
+        <entry>%s/chide/python-timemarker/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
