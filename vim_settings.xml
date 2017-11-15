@@ -24,11 +24,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1509404649096">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="17" column="3" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1510716024825">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
       </file>
       <file name="$USER_HOME$/repos/pycalltree/pycalltree/_file.py" timestamp="1503109726672">
         <mark key="[" line="23" column="35" />
@@ -79,12 +79,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/python-timemarker/setup.py" timestamp="1509503662418">
+      <file name="$USER_HOME$/repos/python-timemarker/setup.py" timestamp="1509505669213">
         <mark key="'" line="9" column="16" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="36" />
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="28" column="87" />
+        <mark key="." line="28" column="87" />
+        <mark key="^" line="28" column="94" />
       </file>
       <file name="$USER_HOME$/repos/test/foo.py" timestamp="1505087017189">
         <mark key="[" line="0" column="0" />
@@ -157,11 +157,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repos/python-timemarker/README.rst" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>indegratio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIF9jbWQgPSBbJ3RtdXgnLCAnbGlzdC1zZXNzaW9ucycsICctRiddCg==</text>
       </register>
       <register name="-" type="4">
-        <text>indegratio</text>
+        <text>&quot;__SEPARATOR__&quot;</text>
       </register>
       <register name="/" type="4">
         <text>chide</text>
@@ -170,31 +170,31 @@
         <text encoding="base64">ICAtICIzLjUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9jbWQgPSBbJ3RtdXgnLCAnbGlzdC1zZXNzaW9ucycsICctRiddCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aWYgdmVyc2lvbl9pbmZvIDwgKDMsIDYpOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSAnMy41Jwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LSAnMy40Jwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVwbG95OgogIHBhc3N3b3JkOgogICAgc2VjdXJlOiBMMkhuSHpZTTR1Q0p2M1VyN2ZVQjNzUHE5OHd1dW1JSU9lSXU4NEVLa3JGUFl1NnpuYXdaL0lRWllCaHlSdys2K3J5TEVYVWZicnU2M3JrRmljZTg3UmdSdVNpdms5emZlUEpqU0Z6ZkwyYkl5ZnBNbm84MHpJdFVmenNYbFRhc1NrVTM4alROTlpwYTc4cTdaUWtDeTVEcUdrYjBiT0czY1krYXdEcCtJQ016SnNKcUhZRlc5aDJKd3FhWndxbkVaSzBLK2RWUXFJSFk0ZVc5NUdTZFpQTVRxSkRVVktjbDk3MWUvMldmUHdvTEM1ZDBqRmZQV3VrZm15QVRDdkdiS1FwUzlva244ZnF4M05oREtydDczMHIySjNMUjQzQVJ4Z01CZjE5c1paV1ErVEpIYnM5aHdpQVU0eUZwSGIyVnNYMlRpc2tUdWo2YjNEY3ZFbUFYWW5TODN2Ym5JT0lGVE5zNkczVzhJN2RENndZR1JhNFFWTU1ITjJxMEZscVpSdGNhUHN5SlZZaEF1TktuZUFkYnhidGVYeU0raTlta2JDbkhndXhPc0pIQjNrdG81WSs0M1FTWnlRYjJlK201WGRVc3cvMDRRanVaNHBlbzRVSkJLOFFEaTc0U2lBMy9sM0ZmOVJNRm1QNUNYZlVLV3RaOGFMVXdIVXpXbE1ZbE1XNXc1VjhhQnltSUNnMDVyaVd2ZW5DZ25lc3FVQm43dzB0NGI1SVhTcCt0b2ZIb2h2d0hBbFl4L1hJaHFBYzY1SVdoMEFWQStPeXVhZmlwdjR1MGtXb3Q1ek1aWFFGL1hsRUxpWVlVdVkxNEI2eW11V0lTRnR2c2JhaXFaMVMxaXpiOVVHeVpxdHlTbVFpb3owbzI4eGIxSU1jTWxXM3R2aWExcUlhWDRybz0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJhaXNlIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aWYgdmVyc2lvbl9pbmZvIDwgKDMsIDYpOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LSAnMy41Jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LSAnMy40Jwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtICIyLjciCg==</text>
+        <text encoding="base64">ZGVwbG95OgogIHBhc3N3b3JkOgogICAgc2VjdXJlOiBMMkhuSHpZTTR1Q0p2M1VyN2ZVQjNzUHE5OHd1dW1JSU9lSXU4NEVLa3JGUFl1NnpuYXdaL0lRWllCaHlSdys2K3J5TEVYVWZicnU2M3JrRmljZTg3UmdSdVNpdms5emZlUEpqU0Z6ZkwyYkl5ZnBNbm84MHpJdFVmenNYbFRhc1NrVTM4alROTlpwYTc4cTdaUWtDeTVEcUdrYjBiT0czY1krYXdEcCtJQ016SnNKcUhZRlc5aDJKd3FhWndxbkVaSzBLK2RWUXFJSFk0ZVc5NUdTZFpQTVRxSkRVVktjbDk3MWUvMldmUHdvTEM1ZDBqRmZQV3VrZm15QVRDdkdiS1FwUzlva244ZnF4M05oREtydDczMHIySjNMUjQzQVJ4Z01CZjE5c1paV1ErVEpIYnM5aHdpQVU0eUZwSGIyVnNYMlRpc2tUdWo2YjNEY3ZFbUFYWW5TODN2Ym5JT0lGVE5zNkczVzhJN2RENndZR1JhNFFWTU1ITjJxMEZscVpSdGNhUHN5SlZZaEF1TktuZUFkYnhidGVYeU0raTlta2JDbkhndXhPc0pIQjNrdG81WSs0M1FTWnlRYjJlK201WGRVc3cvMDRRanVaNHBlbzRVSkJLOFFEaTc0U2lBMy9sM0ZmOVJNRm1QNUNYZlVLV3RaOGFMVXdIVXpXbE1ZbE1XNXc1VjhhQnltSUNnMDVyaVd2ZW5DZ25lc3FVQm43dzB0NGI1SVhTcCt0b2ZIb2h2d0hBbFl4L1hJaHFBYzY1SVdoMEFWQStPeXVhZmlwdjR1MGtXb3Q1ek1aWFFGL1hsRUxpWVlVdVkxNEI2eW11V0lTRnR2c2JhaXFaMVMxaXpiOVVHeVpxdHlTbVFpb3owbzI4eGIxSU1jTWxXM3R2aWExcUlhWDRybz0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -230,11 +230,11 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>%s/&quot;/'/g</entry>
-        <entry>1</entry>
         <entry>'a,.y</entry>
         <entry>'a,.d</entry>
         <entry>%s/cjw296/davidr/g</entry>
         <entry>%s/chide/python-timemarker/g</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
