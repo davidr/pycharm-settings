@@ -30,23 +30,23 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1510855386612">
-        <mark key="[" line="33" column="19" />
-        <mark key="]" line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-        <mark key="." line="33" column="25" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1510858689109">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/repos/tmux-stuff/testing.py" timestamp="1509313549340">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1510856309468">
-        <mark key="'" line="57" column="38" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="70" column="12" />
-        <mark key="." line="70" column="12" />
-        <mark key="^" line="70" column="12" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1510858025910">
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="80" column="46" />
+        <mark key="]" line="80" column="52" />
+        <mark key="." line="80" column="52" />
+        <mark key="^" line="80" column="52" />
       </file>
       <file name="/a.dummy" timestamp="1509313608048">
         <mark key="[" line="0" column="0" />
@@ -166,46 +166,47 @@
       <jump line="77" column="24" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
       <jump line="86" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
       <jump line="71" column="38" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
+      <jump line="7" column="28" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzdGRvdXRfcHJvY2VzcyhzdGRvdXQ6IHN0cikgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgICAgICIiIlByb2Nlc3MgZm9ybWF0dGVkIHRtdXggb3V0cHV0CgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHN0ZG91dDogc3Rkb3V0IHN0cmluZyBmcm9tIGNtZAoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBMaXN0W0xpc3Rbc3RyXV06IHByb2Nlc3NlZCBzdGRvdXQgZnJvbSB0bXV4IGNtZAoKICAgICAgICAiIiIKICAgICAgICBfcmV0ID0gbGlzdCgpCgogICAgICAgIGZvciBsaW5lIGluIHN0ZG91dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgIF9MT0dHRVIuZGVidWcoZidsaW5lOiB7bGluZX0nKQogICAgICAgICAgICBfcmV0LmFwcGVuZChsaW5lLnNwbGl0KHNlcD1fVE1VWF9GT1JNQVRfU0VQQVJBVE9SKSkKCiAgICAgICAgcmV0dXJuIF9yZXQKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzdGRvdXQoc2VsZikgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgICAgIGlmIHNlbGYuX2NtZF9leGVjdXRlZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2NtZF9zdGRvdXQKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAgICAgJ3RtdXggY29tbWFuZCBkaWQgbm90IGV4ZWN1dGUgY29ycmVjdGx5OyBubyBzdGRvdXQuJykKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">X1RNVVhfRk9STUFUX1NFUEFSQVRPUiwg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">X1RNVVhfRk9STUFUX1NFUEFSQVRPUiwg</text>
       </register>
       <register name="/" type="4">
         <text>deco</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBzdGRvdXQuc3BsaXRsaW5lcygpOgogICAgICAgICAgICBfTE9HR0VSLmRlYnVnKGYnbGluZToge2xpbmV9JykKICAgICAgICAgICAgX3JldC5hcHBlbmQobGluZS5zcGxpdChzZXA9X1RNVVhfRk9STUFUX1NFUEFSQVRPUikpCgogICAgICAgIHJldHVybiBfcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoY29sb3JhbWEuU3R5bGUuQlJJR0hUICsgc2Vzc2lvblsnc2Vzc2lvbl9uYW1lJ10gKyBjb2xvcmFtYS5TdHlsZS5SRVNFVF9BTEwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzdGRvdXRfcHJvY2VzcyhzdGRvdXQ6IHN0cikgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgICAgICIiIlByb2Nlc3MgZm9ybWF0dGVkIHRtdXggb3V0cHV0CgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHN0ZG91dDogc3Rkb3V0IHN0cmluZyBmcm9tIGNtZAoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBMaXN0W0xpc3Rbc3RyXV06IHByb2Nlc3NlZCBzdGRvdXQgZnJvbSB0bXV4IGNtZAoKICAgICAgICAiIiIKICAgICAgICBfcmV0ID0gbGlzdCgpCgogICAgICAgIGZvciBsaW5lIGluIHN0ZG91dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgIF9MT0dHRVIuZGVidWcoZidsaW5lOiB7bGluZX0nKQogICAgICAgICAgICBfcmV0LmFwcGVuZChsaW5lLnNwbGl0KHNlcD1fVE1VWF9GT1JNQVRfU0VQQVJBVE9SKSkKCiAgICAgICAgcmV0dXJuIF9yZXQKCiAgICBAcHJvcGVydHkKICAgIGRlZiBzdGRvdXQoc2VsZikgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgICAgIGlmIHNlbGYuX2NtZF9leGVjdXRlZDoKICAgICAgICAgICAgcmV0dXJuIHNlbGYuX2NtZF9zdGRvdXQKICAgICAgICBlbHNlOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKAogICAgICAgICAgICAgICAgJ3RtdXggY29tbWFuZCBkaWQgbm90IGV4ZWN1dGUgY29ycmVjdGx5OyBubyBzdGRvdXQuJykKCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZXNzaW9uKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmb3IgbGluZXJldHVybiBzdGRvdXQuc3BsaXRsaW5lcygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBzdGRvdXRfcHJvY2VzcyhzdGRvdXQ6IHN0cikgLT4gTGlzdFtMaXN0W3N0cl1dOgogICAgICAgICIiIlByb2Nlc3MgZm9ybWF0dGVkIHRtdXggb3V0cHV0CgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIHN0ZG91dDogc3Rkb3V0IHN0cmluZyBmcm9tIGNtZAoKICAgICAgICBSZXR1cm5zOgogICAgICAgICAgICBMaXN0W0xpc3Rbc3RyXV06IHByb2Nlc3NlZCBzdGRvdXQgZnJvbSB0bXV4IGNtZAoKICAgICAgICAiIiIKICAgICAgICBfcmV0ID0gbGlzdCgpCgogICAgICAgIGZvciBsaW5lIGluIHN0ZG91dC5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgIF9MT0dHRVIuZGVidWcoZidsaW5lOiB7bGluZX0nKQogICAgICAgICAgICBfcmV0LmFwcGVuZChsaW5lLnNwbGl0KHNlcD1fVE1VWF9GT1JNQVRfU0VQQVJBVE9SKSkKCiAgICAgICAgcmV0dXJuIF9yZXQKCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbG9yYW1hLlN0eWxlLlJFU0VUX0FMTCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zdGRvdXQ6IExpc3Rbc3RdCg==</text>
+        <text encoding="base64">ZnJvbSBjb2xvcmFtYSBpbXBvcnQgRm9yZSwgQmFjaywgU3R5bGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmJ3tzZXNzaW9uWyJzZXNzaW9uX25hbWUiXX0nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGRvdXRfcHJvY2VzcyhzZWxmKSAtPiBMaXN0W3N0cl06CiAgICAgICAgIiIiRG8gYW55IG5lY2Vzc2FyeSBzdGRvdXQgcHJvY2Vzc2luZy4KCiAgICAgICAgSW4gdGhpcyBjbGFzcywgd2UganVzdCByZXR1cm4gdGhlIG91dHB1dCBwcm9jZXNzZWQgYnkgc3BsaXRsaW5lcwoKICAgICAgICBBcmdzOgogICAgICAgICAgICBzdGRvdXQ6IHN0ZG91dCBzdHJpbmcgZnJvbSBjbWQKCiAgICAgICAgUmV0dXJuczoKICAgICAgICAgICAgTGlzdFtzdHJdOiBzdGRvdXQgbGluZXMKCiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIHN0ZG91dC5zcGxpdGxpbmVzKCkK</text>
+        <text encoding="base64">ZnJvbSB0ZXJtY29sb3IgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">Y29sb3IK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB0ZXJtY29sb3IgaW1wb3J0IGNvbG9yZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBwcmludChmb28pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -246,8 +247,8 @@
         <entry>%s/cjw296/davidr/g</entry>
         <entry>%s/chide/python-timemarker/g</entry>
         <entry>set rnu</entry>
-        <entry>1</entry>
         <entry>'a,.y</entry>
+        <entry>1</entry>
         <entry>'a,.d</entry>
         <entry>w</entry>
       </history-cmd>
