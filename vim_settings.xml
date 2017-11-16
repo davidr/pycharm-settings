@@ -30,23 +30,23 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1510858689109">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="30" column="34" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1510859788082">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
       </file>
       <file name="$USER_HOME$/repos/tmux-stuff/testing.py" timestamp="1509313549340">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1510858025910">
-        <mark key="'" line="7" column="28" />
-        <mark key="[" line="80" column="46" />
-        <mark key="]" line="80" column="52" />
-        <mark key="." line="80" column="52" />
-        <mark key="^" line="80" column="52" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1510859851915">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="107" column="51" />
+        <mark key="]" line="107" column="56" />
+        <mark key="." line="107" column="56" />
+        <mark key="^" line="107" column="56" />
       </file>
       <file name="/a.dummy" timestamp="1509313608048">
         <mark key="[" line="0" column="0" />
@@ -167,13 +167,15 @@
       <jump line="86" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
       <jump line="71" column="38" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
       <jump line="7" column="28" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
+      <jump line="103" column="52" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">X1RNVVhfRk9STUFUX1NFUEFSQVRPUiwg</text>
+        <text>], session_id)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X1RNVVhfRk9STUFUX1NFUEFSQVRPUiwg</text>
+        <text>], session_id)</text>
       </register>
       <register name="/" type="4">
         <text>deco</text>
@@ -248,8 +250,8 @@
         <entry>%s/chide/python-timemarker/g</entry>
         <entry>set rnu</entry>
         <entry>'a,.y</entry>
-        <entry>1</entry>
         <entry>'a,.d</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
