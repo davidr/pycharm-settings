@@ -30,24 +30,22 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1511217049162">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="15" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmgr.py" timestamp="1511221584276">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/repos/tmux-stuff/testing.py" timestamp="1509313549340">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1510859851915">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="107" column="51" />
-        <mark key="]" line="107" column="56" />
-        <mark key="." line="107" column="56" />
-        <mark key="^" line="107" column="56" />
+      <file name="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" timestamp="1511220030600">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1509313608048">
         <mark key="[" line="0" column="0" />
@@ -172,14 +170,11 @@
       <jump line="10" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
       <jump line="39" column="14" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="35" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
-      <jump line="52" column="4" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="58" column="27" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="93" column="21" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
-      <jump line="97" column="8" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="51" column="4" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="73" column="29" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="62" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
-      <jump line="86" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="125" column="59" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="25" column="5" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="111" column="39" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
@@ -191,74 +186,78 @@
       <jump line="129" column="4" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="147" column="44" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="44" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="19" column="20" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="74" column="23" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="6" column="17" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
       <jump line="79" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="86" column="24" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="150" column="14" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="203" column="4" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="42" column="19" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="72" column="7" filename="$USER_HOME$/repos/tmux-stuff/tmuxcmd.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="3" column="20" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="52" column="17" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="54" column="24" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/tmux-stuff/tmgr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjb21tYW5kLnN0YXJ0c3dpdGgoImsiKToK</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text>sig</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwX2RpY3RbImMiXSA9ICJDcmVhdGUgc2Vzc2lvbiAoOiBjIHNlc3NfbmFtZSkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImMiOiAiQ3JlYXRlIHNlc3Npb24gKDogYyBzZXNzX25hbWUpIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjb21tYW5kLnN0YXJ0c3dpdGgoImsiKToK</text>
+        <text encoding="base64">ICAgIGJyZWFrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGhhbmRsZV93aW5jaChzaWdudW0sIGZyYW1lKToKICAgIGRvX3RhYmxlX2xvb3AoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzaWduYWwgaW1wb3J0IHNpZ25hbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vID0gb3JkZXJlZAo=</text>
+        <text encoding="base64">ICAgIHNpZ25hbC5zaWduCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgb3JkZXJlZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgV2UgbWF5IHdhbnQgdG8gc2V0IGFuIGVycm9yIG1lc3NhZ2UgdG8gZGlzcGxheSBvbiBhIHJlZHJhdwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiXG4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search>sig</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
-      <last-replace>python-timemarker</last-replace>
-      <last-substitute>chide</last-substitute>
+      <last-pattern>sig</last-pattern>
+      <last-replace>stderr</last-replace>
+      <last-substitute>stdout</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pyg</entry>
-        <entry>napo</entry>
-        <entry encoding="base64">XDxfcmVzZXJ2ZWRfdGFnc1w+</entry>
-        <entry>TimerMar</entry>
-        <entry>cjw296</entry>
-        <entry>chide</entry>
-        <entry encoding="base64">XDxfY21kX3N0ZG91dFw+</entry>
         <entry>deco</entry>
         <entry>n_c</entry>
         <entry>typing</entry>
@@ -272,6 +271,13 @@
         <entry>.info</entry>
         <entry>TmuxFm</entry>
         <entry>sleep</entry>
+        <entry>Runtime</entry>
+        <entry>tmux_list_sessions</entry>
+        <entry>stdout</entry>
+        <entry>prompt</entry>
+        <entry>timer</entry>
+        <entry>promp</entry>
+        <entry>sig</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -279,10 +285,11 @@
         <entry>%s/&quot;/'/g</entry>
         <entry>%s/cjw296/davidr/g</entry>
         <entry>%s/chide/python-timemarker/g</entry>
-        <entry>'a,.y</entry>
         <entry>set rnu</entry>
         <entry>q</entry>
         <entry>2</entry>
+        <entry>'a,.y</entry>
+        <entry>'a,.s/stdout/stderr/g</entry>
         <entry>'a,.d</entry>
         <entry>1</entry>
         <entry>w</entry>
